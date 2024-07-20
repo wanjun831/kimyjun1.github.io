@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Sukkyung Kang
+title: Young-Jun Kim
 
 # Is this the primary user of the site?
 superuser: true
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: KAIST
-    url: https://me.kaist.ac.kr/eng/main/main.html
-  - name: Ph.D. candidate
+  - name: KRICT
+    url: https://sites.google.com/view/krict-polymer
+  - name: Postdoctrol fellow
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on the phenomena arising from the physical contact between two engineered surfaces. The goal is to develop processing technologies that can create high-value, innovative products by precisely manipulating phenomena such as friction, wear, polishing, diffusion, adhesion, and deformation.
@@ -17,21 +17,20 @@ bio: My research focuses on the phenomena arising from the physical contact betw
 
 # Interests to show in About widget
 interests:
-  - Advanced Manufacturing
-  - Semiconductor Manufacturing
-  - Contact Mechanics
-  - Surface Engineering
-  - Tribology
+  - Biocompatible materials for human health
+  - Wireless energy transfer for implantable medical devices
+  - Pathogen control with static electricity
+  - Energy harvesting for sensor applications
 
 # Education to show in About widget
 education:
   courses:
-    - course: M.S. in Mechanical Engineering
-      institution: Korea Advanced Institute of Science and Technology (KAIST)
-      year: 2022
+    - course: Ph.D. in Advanced Materials Science and Engineering
+      institution: Sungkyunkwan University (SKKU)
+      year: 2023.08
     - course: B.S. in Mechanical Engineering
       institution: Hanyang University
-      year: 2020
+      year: 2019.02
     
 
 # Social/Academic Networking
@@ -42,18 +41,18 @@ social:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:skkang00@kaist.ac.kr'
+  link: 'mailto:kimyjun@krict.re.kr'
   display:
     header: true
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=WpQFDrYAAAAJ&hl=en
+  link: https://scholar.google.co.kr/citations?user=hTVt6tEAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/sukkyung-kang-369440223/
+  link: https://www.linkedin.com/in/young-jun-kim-986925273/
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/0000-0002-4301-1354
+  link: https://orcid.org/0000-0002-9103-7065
 # - icon: download
 #   icon_pack: fas
 #   link: uploads/cv_sukkyung_kang.pdf
@@ -63,6 +62,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-The interaction between engineered surfaces is an essential element in modern technology and industry, and understanding this interaction is key to unlocking new technological innovations. My research focuses on the phenomena arising from the **physical contact between two engineered surfaces**. The goal is to develop processing technologies that can create high-value, innovative products by precisely manipulating phenomena such as friction, wear, polishing, diffusion, adhesion, and deformation.
+In pursuit of technologies that can extend human lifespan, we can develop implantable medical devices aimed at dramatically increasing lifespan, or prevent a decrease in lifespan by preparing for a pandemic. However, the development of these two technologies is currently limited due to the lack of suitable energy sources. A triboelectric generator, which allows for considerable freedom in material selection, can address the energy requirements of both technologies. **Here, we have improved the output of the triboelectric generator through the development of material and structural modifications and investigated its potential as a power source for implantable medical devices and pathogen control technology such as those for viruses and bacteria**.
 
-I am currently a Ph.D. student in [Professor Sanha Kim's group (Advanced Manufacturing and Surface Engineering (AMSE) Laboratory)](https://amselab.kaist.ac.kr/home) at the [Department of Mechanical Engineering, KAIST](https://me.kaist.ac.kr/eng/main/main.html), a journey I embarked on in 2020. In 2019, as an undergraduate at [Hanyang University](https://me.hanyang.ac.kr/?passedIntro=true&lang=eng), I conducted graduation research in [Professor Se-Jin Yook's group](http://entel.hanyang.ac.kr/board/bbs/board.php?bo_table=Main). This academic journey has engaged me in various research projects within the field of mechanical engineering, enabling me to develop profound expertise and technical skills.
+I am currently a Postdoctral Fellow in [Advanced Functional Polymers Center (advisor: Dr. Yun Ho Kim)](https://sites.google.com/view/krict-polymer) at the Korea Research Institute of Chemical Technology, a journey I embarked on in 2023. Before I join KRICT, I got Ph.D at Sungkyunkwan University, and my Supervisor was [Professor Sang-Woo Kim](https://ehl.yonsei.ac.kr/).
