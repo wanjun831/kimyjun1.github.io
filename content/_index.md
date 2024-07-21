@@ -66,6 +66,7 @@ sections:
       text: |
         - Notes: # indicates equally contributing authors. * indicates the corresponding author(s).
         - **First Authored Papers**
+        - [Full paper list](https://scholar.google.co.kr/citations?user=hTVt6tEAAAAJ&hl=en)
       filters:
         folders:
           - project
