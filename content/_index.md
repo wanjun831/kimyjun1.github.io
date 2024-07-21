@@ -63,6 +63,9 @@ sections:
     id: projects
     content:
       title: Journal Publications
+      text: |
+        - Notes: # indicates equally contributing authors. * indicates the corresponding author(s).
+        - **First Authored Papers**
       filters:
         folders:
           - project
@@ -73,33 +76,7 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Advanced Manufacturing
-          tag: Advanced Manufacturing
-        - name: Semiconductor Manufacturing
-          tag: Semiconductor Manufacturing
-        - name: Chemical Mechanical Polishing
-          tag: Chemical Mechanical Polishing
-        - name: Hybrid Bonding
-          tag: Hybrid Bonding
-        - name: Friction
-          tag: Friction
-        - name: Tribology
-          tag: Tribology
-        - name: Aerosol
-          tag: Aerosol
-        - name: Contact Mechanics
-          tag: Contact Mechanics
-        - name: Surface Engineering
-          tag: Surface Engineering
-        - name: Macro scale
-          tag: Macro scale
-        - name: Micro scale
-          tag: Micro scale
-        - name: Nano scale
-          tag: Nano scale
+      
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

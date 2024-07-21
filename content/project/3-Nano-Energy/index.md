@@ -1,6 +1,6 @@
 ---
 title: Self-powered microbial blocking textile driven by triboelectric charges
-summary: 5.	I.-Y. Suh#, Y.-J. Kim#, B.-Q. Chen, P. Zhao, D. S. Cho, M. Kang, Z.-Y. Huo*, S.-W. Kim*, **Nano Energy** 110, 108343 (2023)
+summary: I.-Y. Suh#, Y.-J. Kim#, B.-Q. Chen, P. Zhao, D. S. Cho, M. Kang, Z.-Y. Huo*, S.-W. Kim*, **Nano Energy** 110, 108343 (2023)
 date: '2023-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
