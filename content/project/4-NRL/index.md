@@ -1,7 +1,7 @@
 ---
-title: Self-powered microbial blocking textile driven by triboelectric charges
-summary: 5.	I.-Y. Suh#, Y.-J. Kim#, B.-Q. Chen, P. Zhao, D. S. Cho, M. Kang, Z.-Y. Huo*, S.-W. Kim*, **Nano Energy** 110, 108343 (2023)
-date: '2023-06-01T00:00:00Z'
+title: Self-powered Fine Dust Filtration System Using Triboelectrification Induced Electric Field
+summary: Y.-J. Kim#, H. T. Kim#, J. H. Lee#, I.-Y. Suh, S.-W. Kim*, **Nanoscale Research Letters** 17, 1-9 (2022)
+date: '2022-12-23T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -14,7 +14,7 @@ links:
   - icon: link
     icon_pack: fas
     name: link
-    url: https://www.sciencedirect.com/science/article/abs/pii/S2211285523001805
+    url: https://link.springer.com/article/10.1186/s11671-022-03749-6
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -28,4 +28,4 @@ url_video: ''
 # slides: example
 ---
 
-Conventional methods of protecting against airborne pathogens, such as face masks, are typically associated with significant pressure loss and uncomfortable long-term wear. Alternative methods, such as antimicrobial textiles, can utilize nanomaterial-modified functional fabrics for effective microbial prevention, but suffer from limited treatment throughput, high cost, and potential toxicity from nanomaterial release. Herein, we develop a novel microbial-blocking textile using fabrics with opposite triboelectric properties of the outer and inner layers, which induces triboelectric charges by harvesting kinetic energy from human motion. The induced triboelectric negative charges at the outer textile layer achieve efficient airborne pathogen blocking based on electrostatic repulsion between the fabric and microbes. This self-powered, triboelectrification-induced microbial blocking system with optimized material (PTFE and nylon) and structure (rib knitted) achieves highly efficient microbial blocking (>95%) at a very high airflow rate of 2.0 m/s. In addition, the pressure drop for microbial blocking by this novel method is extremely low (<30 Pa). Our results demonstrate a promising method for rapid, self-powered blocking of airborne pathogens by incorporating triboelectric charges from human motion to meet vital public health needs.
+Particulate matter (PM) in the environment can adversely affect the health of living things. However, high removal efficiency and low-pressure loss are crucial design challenges for any air filtration system. To circumvent the challenge, here, we demonstrate a novel triboelectric (TE) air filtration system that is based on a rotation-type triboelectric nanogenerator (TENG) and a filter comprising two sets of plates: primary and secondary, that are placed in the airflow channel. When the TENG charges the two plate sets with opposite charges, the flowing air particles are charged at the primary plates and are collected, due to an electric field, at the secondary plates. The TE filter has demonstrated a PM2.5 removal efficiency of ~ 99.97% for the fine dust particles, and it remains stable even after several washing cycles. The pressure loss is almost two orders less than the high-efficiency particulate air filter. Since the airflow itself can drive the TENG, the TE filter can potentially be integrated with any air conditioning system for fine dust filtration in offices, automobiles, etc.
