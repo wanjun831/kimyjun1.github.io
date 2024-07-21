@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Sukkyung Kang # Website name
-baseURL: 'https://sukkyung.github.io/' # 실제 사이트 URL로 변경
+title: Young-Jun Kim # Website name
+baseURL: 'https://wanjun831.github.io/kimyjun1.github.io/' # 실제 사이트 URL로 변경
 
 ############################
 ## LANGUAGE

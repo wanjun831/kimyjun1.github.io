@@ -17,10 +17,10 @@ bio: My research focuses on the phenomena arising from the physical contact betw
 
 # Interests to show in About widget
 interests:
-  - Biocompatible materials for human health
-  - Wireless energy transfer for implantable medical devices
-  - Pathogen control with static electricity
-  - Energy harvesting for sensor applications
+  - Energy harvesting
+  - Biocompatible materials
+  - Wireless energy transfer
+  - Pathogen control
 
 # Education to show in About widget
 education:

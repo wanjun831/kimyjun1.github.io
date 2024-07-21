@@ -40,26 +40,24 @@ sections:
     id: about
     content:
       title:  
-      username: admin
+      username: Young-Jun Kim
       # Choose a user profile to display (a folder name within `content/authors/`)
   - block: markdown
     id: awards-and-honors
     content:
       title: Awards and Honors #1
       text: |
-        - 2023 **Second Place in the Science as Art Competition** at Material Research Society (MRS) (covered in [KAIST ME News](https://me.kaist.ac.kr/eng/news/news_020100.html?bmain=view&uid=485))
-        - 2023 **Outstanding Student Poster Award** at Material Research Society (MRS) (covered in [KAIST ME News](https://me.kaist.ac.kr/eng/news/news_020100.html?bmain=view&uid=485))
-        - 2022 **Best Oral Presentation Award** at International Conference on Electronic Materials and Nanotechnology for Green Environment (ENGE)
-        - 2022 **Best Collaborative Patent Award** at KAIST & Samsung Electronics
-        - 2022 **Best Paper Award** at Korean Society for Precision Engineering (KSPE) (covered in [KAIST ME News](https://me.kaist.ac.kr/eng/news/news_020100.html?bmain=view&uid=338))
-        - 2021 **Outstanding Paper Award** at Korean Tribology Society (covered in [KAIST ME News](https://me.kaist.ac.kr/eng/news/news_020100.html?bmain=view&uid=257))
-        - 2020 **Outstanding Paper Award** at Korean Tribology Society
-        - 2020 **Summa Cum Laude** BS in Mechanical Engineering, HYU
-        - 2019 **President's Award** in Capstone Design Fair, HYU (covered in [HYU ME HOT News](https://me.hanyang.ac.kr/front/bulletin/bulletinSub2/view?id=24815&page=3))
-        - 2022 **Outstanding TA Award** in Education 4.0 Q Program, KAIST
-        - 2022 **Best Tutor Award** in Freshman tutoring program, KAIST 
-        - 2021 **Best Tutor Award** in Freshman tutoring program, KAIST
-        - 2018 **Best Tutor Award** in Foreign student tutoring program, HYU
+        - **Sejong Science Fellowship** (Domestic Track, 5 years, 100,000,000 KRW/year ≒ 72,000 USD/year) 
+          *Allowed to be dispatched to overseas research institute for 1 year 
+        - Samsung Humantech Silver Medal (2023)
+        - Outstanding Poster Presentation Award (12th TBIS)
+        - Energy Technology Innovation Ideas (Ministry of Ministry of Commerce Industry and Energy)
+        - SKKU Research Matters
+        - Best Paper Award (PVSEC-30 & GPVC 2020)
+        - SKKU Best Paper Award
+        - The Best Outstanding Master/Ph.D Student Award, BK21 Program
+        - Best Presentation Award (NCC 2022)
+        - Excellent Student Presentation Award (ECS 242nd Meeting)
       # `content` 폴더 안의 `awards.md` 파일 내용을 여기에 직접 삽입합니다.
   - block: portfolio
     id: projects
