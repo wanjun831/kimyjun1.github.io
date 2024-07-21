@@ -40,7 +40,7 @@ sections:
     id: about
     content:
       title:  
-      username: Young-Jun Kim
+      username: admin
       # Choose a user profile to display (a folder name within `content/authors/`)
   - block: markdown
     id: awards-and-honors
