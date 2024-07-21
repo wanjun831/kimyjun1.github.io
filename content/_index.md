@@ -92,7 +92,11 @@ sections:
         - Application (KOREA): 9
         - Registration (KOREA): 16
         - Application (USA): 7
-        - Registration (USA): 2<p><p>**Patented Technology Transfer**<p>1. KR Application No. 10-2020-0062731, No. 10-2020-0140031, SEMS Co., Ltd., (85,000,000 KRW)<p>
+        - Registration (USA): 2
+        
+        **Patented Technology Transfer**
+        
+        1. KR Application No. 10-2020-0062731, No. 10-2020-0140031, SEMS Co., Ltd., (85,000,000 KRW)<p>
         2. KR Application No. 10-2020-0099247, SEMS Co., Ltd., (58,000,000 KRW) <p>
         3. KR Application No. 10-2020-0056913, US Application No. 17/110,673, SEMS Co., Ltd., (79,000,000 KRW)<p>
         4. KR Application No. 10-2020-0145170, US Application No. 17/510,675 Energymining Co., Ltd., (300,000,000 KRW)<p>
