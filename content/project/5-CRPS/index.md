@@ -1,7 +1,7 @@
 ---
-title: Self-powered Fine Dust Filtration System Using Triboelectrification Induced Electric Field
-summary: Y.-J. Kim#, H. T. Kim#, J. H. Lee#, I.-Y. Suh, S.-W. Kim*, **Nanoscale Research Letters** 17, 1-9 (2022)
-date: '2022-12-23T00:00:00Z'
+title: Virus blocking textile for SARS-CoV-2 using human body triboelectric energy harvesting
+summary: M. Kang#, N.-Y. Jang#, Y.-J. Kim#, H.-J. Ro#, D. Kim, Y. Kim, H. T. Kim, H. M. Kwon, J.-H. Ahn, B.-O. Choi, N.-H. Cho*, and S.-W. Kim*, **Cell Reports Physical Science*** 3, 100813 (2022)
+date: '2022-04-20T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -14,7 +14,7 @@ links:
   - icon: link
     icon_pack: fas
     name: link
-    url: https://link.springer.com/article/10.1186/s11671-022-03749-6
+    url: https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(22)00083-2
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -28,4 +28,4 @@ url_video: ''
 # slides: example
 ---
 
-Conventional methods of protecting against airborne pathogens, such as face masks, are typically associated with significant pressure loss and uncomfortable long-term wear. Alternative methods, such as antimicrobial textiles, can utilize nanomaterial-modified functional fabrics for effective microbial prevention, but suffer from limited treatment throughput, high cost, and potential toxicity from nanomaterial release. Herein, we develop a novel microbial-blocking textile using fabrics with opposite triboelectric properties of the outer and inner layers, which induces triboelectric charges by harvesting kinetic energy from human motion. The induced triboelectric negative charges at the outer textile layer achieve efficient airborne pathogen blocking based on electrostatic repulsion between the fabric and microbes. This self-powered, triboelectrification-induced microbial blocking system with optimized material (PTFE and nylon) and structure (rib knitted) achieves highly efficient microbial blocking (>95%) at a very high airflow rate of 2.0 m/s. In addition, the pressure drop for microbial blocking by this novel method is extremely low (<30 Pa). Our results demonstrate a promising method for rapid, self-powered blocking of airborne pathogens by incorporating triboelectric charges from human motion to meet vital public health needs.
+Effective mitigation technology to prevent the spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is required before achieving population immunity through vaccines. Here we demonstrate a virus-blocking textile (VBT) that repulses SARS-CoV-2 by applying repulsive Coulomb force to respiratory particles, powered by human body triboelectric energy harvesting. We show that SARS-CoV-2 has negative charges, and a human body generates high output current of which peak-to-peak value reaches 259.6 μA at most, based on triboelectric effect. Thereby, the human body can sustainably power a VBT to have negative electrical potential, and the VBT highly blocks SARS-CoV-2 by repulsion. In an acrylic chamber study, we found that the VBT blocks SARS-CoV-2 by 99.95%, and SARS-CoV-2 in the VBT is 13-fold reduced. Our work provides technology that may prevent the spread of virus based on repulsive Coulomb force and triboelectric energy harvesting.

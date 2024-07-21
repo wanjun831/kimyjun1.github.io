@@ -12,7 +12,7 @@ organizations:
   - name: Postdoctrol fellow
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on the phenomena arising from the physical contact between two engineered surfaces. The goal is to develop processing technologies that can create high-value, innovative products by precisely manipulating phenomena such as friction, wear, polishing, diffusion, adhesion, and deformation.
+bio: My research focuses generating static electricity by mechanical energy and, use it for biomedical applications.
 
 
 # Interests to show in About widget
@@ -21,6 +21,7 @@ interests:
   - Biocompatible materials
   - Wireless energy transfer
   - Pathogen control
+  - Biomedical engineering
 
 # Education to show in About widget
 education:
