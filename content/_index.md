@@ -96,13 +96,11 @@ sections:
         - KR Application No. 10-2020-0099247, SEMS Co., Ltd., (58,000,000 KRW) 
         - KR Application No. 10-2020-0056913, US Application No. 17/110,673, SEMS Co., Ltd., (79,000,000 KRW)
         - KR Application No. 10-2020-0145170, US Application No. 17/510,675 Energymining Co., Ltd., (300,000,000 KRW)
-
         - **Patents**
         - Application (KOREA): 9
         - Registration (KOREA): 16
         - Application (USA): 7
         - Registration (USA): 2
-
       # `content` 폴더 안의 `awards.md` 파일 내용을 여기에 직접 삽입합니다.
   - block: markdown
     id: gallery
