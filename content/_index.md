@@ -64,8 +64,8 @@ sections:
     content:
       title: Journal Publications
       text: |
-        [Full paper list](https://scholar.google.co.kr/citations?user=hTVt6tEAAAAJ&hl=en)
-        **First Authored Papers**
+        - [Full paper list](https://scholar.google.co.kr/citations?user=hTVt6tEAAAAJ&hl=en)
+        - **First Authored Papers**
         - Notes: # indicates equally contributing authors. * indicates the corresponding author(s).
     
 
@@ -91,42 +91,18 @@ sections:
     content:
       title: Patents #1
       text: |
-        - **[KR Patent 10-2539172](https://www.dropbox.com/scl/fi/ty8e099hna5n59hxqcdju/10-2539172.png?rlkey=785u03ticcknfc8pb6fmhjg9m&dl=0)**
-        - **US Patent Application 18/289,189**
-        - **EP Patent Application 21964180.0**
-        - **JP Patent Application 2023-571616**
-        - **CN Patent Application 202180099397.2**
-        - **(PCT/KR2021/016560)**\
-          Composite polishing pad including highly abrasion-resistant thin film coating bound with carbon nanotubes, and method for producing the same
-          <br><br>
-        - **[KR Patent 10-2531705](https://www.dropbox.com/scl/fi/wq3b0hwbq8z6wz8yzxq27/10-2531705.png?rlkey=7uurki9ni2k94j1nmd773pt0n&dl=0)**
-        - **US Patent Application 18/289,607**
-        - **EP Patent Application 21964181.8**
-        - **JP Patent Application 2023-571624**
-        - **CN Patent Application 202180099396.8**
-        - **(PCT/KR2021/016562)**\
-          Composite polishing pad including carbon nanotubes, and method for producing the same
-          <br><br>
-        - **[KR Patent 10-2625829](https://www.dropbox.com/scl/fi/xc7g9hw9qz1mcdqpmpfdx/10-2625829.png?rlkey=0djqaht9mj950rs4ne3z92jqo&dl=0)**
-        - **US Patent Application 17/526,134**\
-          Fixed-abrasive pad using vertically aligned carbon nanotubes and fabrication method for the same
-          <br><br>
-        - **KR Patent Application 10-2022-0002523** (Received [Best Collaborative Patent Award](https://www.dropbox.com/scl/fi/b2qryryrlc43l40exr97o/2022_.jpg?rlkey=r0gte5aszf273gbb0mj0ed81q&dl=0))
-        - **US Patent Application 17/805,735**
-        - **TW Patent Application 111121265**\
-          Polishing pad, chemical mechanical polishing apparatus including the same, and method for manufacturing semiconductor device using the same
-          <br><br>
-        - **KR Patent Application 10-2024-0058665**\
-          Polishing processing method and polishing processing equipment
-          <br><br>
-        - **KR Patent Application 10-2023-0187811**\
-          Plastic molding device for polishing pad, chemical mechanical polishing device including same, and method of controlling surface roughness of polishing pad using same
-          <br><br>
-        - **KR Patent Application 10-2023-0139596**\
-          Semiconductor circuit manufacturing method
-          <br><br>
-        - **KR Patent Application 10-2020-0134670**\
-          Design Method of Ionizer Anti-Virus Ventilation and Ventilation System for Protection Using a Voltage Type Copper hierarchy Filter
+        - **Patented Technology Transfer***
+        - KR Application No. 10-2020-0062731, No. 10-2020-0140031, SEMS Co., Ltd., (85,000,000 KRW)
+        - KR Application No. 10-2020-0099247, SEMS Co., Ltd., (58,000,000 KRW) 
+        - KR Application No. 10-2020-0056913, US Application No. 17/110,673, SEMS Co., Ltd., (79,000,000 KRW)
+        - KR Application No. 10-2020-0145170, US Application No. 17/510,675 Energymining Co., Ltd., (300,000,000 KRW)
+
+        - **Patents**
+        - Application (KOREA): 9
+        - Registration (KOREA): 16
+        - Application (USA): 7
+        - Registration (USA): 2
+
       # `content` 폴더 안의 `awards.md` 파일 내용을 여기에 직접 삽입합니다.
   - block: markdown
     id: gallery
