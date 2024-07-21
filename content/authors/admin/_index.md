@@ -8,7 +8,7 @@ superuser: true
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: KRICT
-    url: https://sites.google.com/view/krict-polymer
+    url: https://www.krict.re.kr/eng/index.do;jsessionid=5FDC8EF969794D3B1396339E2841B0D2
   - name: Postdoctrol fellow
 
 # Short bio (displayed in user profile at end of posts)

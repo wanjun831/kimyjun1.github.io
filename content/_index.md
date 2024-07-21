@@ -150,16 +150,6 @@ sections:
         - **KR Patent Application 10-2020-0134670**\
           Design Method of Ionizer Anti-Virus Ventilation and Ventilation System for Protection Using a Voltage Type Copper hierarchy Filter
       # `content` 폴더 안의 `awards.md` 파일 내용을 여기에 직접 삽입합니다.
-  - block: collection
-    id: presentations
-    content:
-      title: Conference Presentations
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
   - block: markdown
     id: gallery
     content:
