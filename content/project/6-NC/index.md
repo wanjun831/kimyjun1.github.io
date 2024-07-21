@@ -1,6 +1,6 @@
 ---
 title: Triboelectrification induced self-powered microbial disinfection using nanowire-enhanced localized electric field
-summary: 8Z.-Y. Huo#, Y.-J. Kim#, I.-Y. Suh, D.-M. Lee, J. H. Lee, Y. Du, S. Wang, H.-J. Yoon, and S.-W. Kim*, **Nature Communications** 12, 1-11 (2021) Covered by domestic news (Dong-A Ilbo, etc.)
+summary: Z.-Y. Huo#, Y.-J. Kim#, I.-Y. Suh, D.-M. Lee, J. H. Lee, Y. Du, S. Wang, H.-J. Yoon, and S.-W. Kim*, **Nature Communications** 12, 1-11 (2021) Covered by domestic news (Dong-A Ilbo, etc.)
 date: '2021-06-17T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
