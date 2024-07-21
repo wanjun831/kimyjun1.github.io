@@ -1,6 +1,6 @@
 ---
 title: Body-coupled energy enabling unrestricted microbial disinfection using polymer nanorods
-summary: Y.-J. Kim#, Z.-Y. Huo#, H. Dai, D.-M. Lee, I.-Y. Suh, J.-H. Hwang, Y. Chung, H. Y. Lee, Y. Du, W. Ding, X. Wang, S.-W. Kim*, **Nature Water**, 2, 360-369 (2024).
+summary: Y.-J. Kim#, Z.-Y. Huo#, H. Dai, D.-M. Lee, I.-Y. Suh, J.-H. Hwang, Y. Chung, H. Y. Lee, Y. Du, W. Ding, X. Wang, S.-W. Kim*, **Nature Water**, 2, 360-369 (2024). Covered by [News & Views in Nature Water](https://www.nature.com/articles/s44221-024-00219-4), [Highlighted in Nature](https://www.nature.com/articles/d41586-024-01074-9) 628, 693 (2024) 
 date: '2024-04-12T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
