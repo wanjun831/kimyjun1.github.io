@@ -47,8 +47,7 @@ sections:
     content:
       title: Awards and Honors #1
       text: |
-        - **Sejong Science Fellowship** (Domestic Track, 5 years, 100,000,000 KRW/year ≒ 72,000 USD/year) 
-          *Allowed to be dispatched to overseas research institute for 1 year 
+        - **Sejong Science Fellowship** (Domestic Track, 5 years, 100,000,000 KRW/year ≒ 72,000 USD/year) \*Allowed to be dispatched to overseas research institute for 1 year 
         - Samsung Humantech Silver Medal (2023)
         - Outstanding Poster Presentation Award (12th TBIS)
         - Energy Technology Innovation Ideas (Ministry of Ministry of Commerce Industry and Energy)
