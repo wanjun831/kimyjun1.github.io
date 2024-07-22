@@ -64,11 +64,6 @@ sections:
       title: Journal Publications
       text: |
         Full paper list [(Google scholar)](https://scholar.google.co.kr/citations?user=hTVt6tEAAAAJ&hl=en)<p>**First Authored Papers**<p>
-        
-        <!-- Project content will be loaded here -->
-
-        **Contributing Authored Papers**<p>
-        - test
       filters:
         folders:
           - project
