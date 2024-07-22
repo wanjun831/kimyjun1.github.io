@@ -64,12 +64,6 @@ sections:
       title: Journal Publications
       text: |
         Full paper list [(Google scholar)](https://scholar.google.co.kr/citations?user=hTVt6tEAAAAJ&hl=en)<p>**First Authored Papers**<p>
-        - Notes: # indicates equally contributing authors. * indicates the corresponding author(s).
-        <div class="project-content">
-          <!-- Project content will be loaded here -->
-        </div>
-      **Contributing Authored Papers**<p>
-      - Will be updated later.
       filters:
         folders:
           - project
