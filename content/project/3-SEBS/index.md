@@ -23,4 +23,4 @@ url_video: ''
 # slides: example
 ---
 
-Will be uptate later.
+Will be uptated later.
