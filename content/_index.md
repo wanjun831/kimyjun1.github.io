@@ -75,32 +75,20 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      text: |
-        **Contributing Authored Papers**<p>
-        1.	Y. Chung#, J.-M. Jeong#, J.-H. Hwang#, Y.-J. Kim, B.-J. Park, D. S. Cho, Y. Cho, S. J. Suh, B.-O. Choi, H. Park*, H.-J. Yoon*, S.-W. Kim*, Gigantic triboelectric power generation overcoming acoustic energy barrier using metal-liquid coupling, Joule, onlien published
-        2.	M. Kang#, H. Yum#, H. T. Kim#, B. J. Park, Y. Choi, H. J. Kim, Y. Cho, Y.-J. Kim, D.-M. Lee, D.-G. Lee, H.-C. Song, S. H. Nam, J. H. Lee*, B.-O. Choi*, S.-W. Kim*, Self-Powered Electrical Bandage Based on Body-Coupled Energy Harvesting, Advanced Materials, onlien published
-        3.	I.-Y. Suh#, Z.-Y. Huo#*, J.-H. Jung#, D. Kang, D.-M. Lee, Y.-J. Kim, B. Kim, J. Jeon, P. Zhao, J. Shin, S. Kim, S.-W. Kim*, Highly efficient microbial inactivation enabled by tunneling charges injected through two-dimensional electronics, Science Advances 10, eadl5067 (2024)
-        4.	J. Kim#, D.-M. Lee#, H. Ryu, Y.-J. Kim, H. Kim, H.-J. Yoon, M. Kang, S. S. Kwak*, S.-W. Kim*, Triboelectric Nanogenerators for Battery-Free Wireless Sensor System Using Multi-Degree of Freedom Vibration, Advanced Materials Technologies 9, 2301427 (2024)
-        5.	D. Kang#, J.-H. Hwang#, Y-J. Kim, Z. Pin, H. Y. Lee, J. Kim, M. S. Shin, S. Jeon, S. Kim, S.-W. Kim*, Contact electrification controlled by material deformation-induced electronic structure changes, Materials Today 72, 109-116 (2023)
-        6.	B. Kim#, H.-J. Yoon#, Y.-J. Kim, B.-J. Park, J.-H. Jung, S.-W. Kim*, Ultrasound-Driven Triboelectric Nanogenerator with Biocompatible 2-Hydroxyethyl Methacrylate, ACS Energy Letters 8, 3412 (2023) 
-        7.	Z.-Y. Huo, Y.-J. Kim, Y. Chen, Y. Du, D. Xia, S.-W. Kim*, Q. Yuan*, Hybrid energy harvesting systems for self-powered sustainable water purification by harnessing ambient energy, Frontiers of Environmental Science & Engineering 17, 118 (2023) (review articles)
-        8.	X. Meng#, X. Xiao#, S. Jeon, D. Kim, B.-J. Park, Y.-J. Kim, N. Rubab, S. Kim, S.-W. Kim*, An Ultrasound‐Driven Bioadhesive Triboelectric Nanogenerator for Instant Wound Sealing and Electrically Accelerated Healing in Emergencies, Advanced Materials 35, 2209054 (2023)
-        9.	I. M. Imani#, B. Kim#, X. Xiao, N. Rubab, B.-J. Park, Y.-J. Kim, P. Zhao, M. Kang, S.-W. Kim*, Ultrasound‐Driven On‐Demand Transient Triboelectric Nanogenerator for Subcutaneous Antibacterial Activity, Advanced Science 10, 2204801 (2023)
-        10.	B.-G. Park#, C. Lee#, Y.-J. Kim, J. Park, H. Kim, Y. Jung, J. S. Ko, S.-W. Kim, J.-H. Lee*, H. Cho*, Toxic micro/nano particles removal in water via triboelectric nanogenerator, Nano Energy 100, 107433 (2022)
-        11.	M. Kang#, M. S. B. Khusrin#, Y.-J. Kim, B. Kim, B.-J. Park, I. Hyun, I. M. Imani, B.-O. Choi, S.-W. Kim*, Nature-derived highly tribopositive ϰ-carrageenan-agar composite-based fully biodegradable triboelectric nanogenerators, Nano Energy 100, 107480 (2022)
-        12.	Z.-Y. Huo#, D.-M. Lee#, J.-M. Jeong#, Y.-J. Kim, J. Kim, I.-Y. Suh, P. Xiong, S.-W Kim*, Microbial Disinfection with Supercoiling Capacitive Triboelectric Nanogenerator, Advanced Energy Materials 12, 2103680 (2022)
-        13.	D.-M. Lee#, N. Rubab#, I. Hyun, W. Kang, Y.-J. Kim, M. Kang, B. O. Choi*, S.-W. Kim*, Ultrasound-mediated triboelectric nanogenerator for powering on-demand transient electronics, Science Advances 8, eabl8423 (2022)
-        14.	Z.-Y. Huo, D.-M. Lee, Y.-J. Kim, and S.-W. Kim*, Solar-induced hybrid energy harvesters for advanced oxidation water treatment, iScience 24, 102808 (2021) (review articles)
-        15.	Z.-Y. Huo, D.-M. Lee, S. Wang, Y.-J. Kim, and S.-W. Kim*, Emerging Energy Harvesting Materials and Devices for Self-Powered Water Disinfection, Small Methods 5, 2100093 (2021) (review articles)
-        16.	H.-J. Yoon#, D.-M. Lee#, Y.-J. Kim, S. Jeon, J.-H. Jung, S. S. Kwak, J. Kim, S. Kim, Y. Kim, and S.-W. Kim*, Mechanoreceptor-Inspired Dynamic Mechanical Stimuli Perception based on Switchable Ionic Polarization, Advanced Functional Materials 31, 2100649 (2021)
-
-      
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows? #
       flip_alt_rows: false
+
+  - block: portfolio
+    id: projects
+    content:
+      text: |
+        **Contrubuting Authored Papers**<p>
+        - Notes: # indicates equally contributing authors. * indicates the corresponding author(s).
+
   - block: markdown
     id: patents
     content:
