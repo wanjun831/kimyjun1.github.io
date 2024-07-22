@@ -87,7 +87,7 @@ sections:
       title: Full publication list #1
       text: |
         [(Google scholar)](https://scholar.google.co.kr/citations?user=hTVt6tEAAAAJ&hl=en)<p>**First authored papers**<p>
-        1.	Y.-J. Kim#, Z.-Y. Huo#, H. Dai, D.-M. Lee, I.-Y. Suh, J.-H. Hwang, Y. Chung, H. Y. Lee, Y. Du, W. Ding, X. Wang, S.-W. Kim*, Body-coupled energy enabling unrestricted microbial disinfection using polymer nanorods, Nature Water 2, 360-369 (2024), Covered by News & Views in Nature Water, Highlighted in Nature 628, 693 (2024) 
+        1.	Y.-J. Kim#, Z.-Y. Huo#, H. Dai#, D.-M. Lee, I.-Y. Suh, J.-H. Hwang, Y. Chung, H. Y. Lee, Y. Du, W. Ding, X. Wang, S.-W. Kim*, Body-coupled energy enabling unrestricted microbial disinfection using polymer nanorods, Nature Water 2, 360-369 (2024), Covered by News & Views in Nature Water, Highlighted in Nature 628, 693 (2024) 
         2.	Y.-J. Kim#, J. Lee#, J.-H Hwang#, Y. Chung, B. J. Park, J. Kim, S.-H. Kim, H.-J. Yoon, S.-M. Park*, S.-W. Kim*, High-performing and capacitive-matched triboelectric implants driven by ultrasound, Advanced Materials 36, 2307194 (2024), Covered by Fobes, Parkinson’s News Today, News-medical, etc.
         3.	I.-Y. Suh#, Y.-J. Kim#, B.-Q. Chen, P. Zhao, D. S. Cho, M. Kang, Z.-Y. Huo*, S.-W. Kim*, Self-powered microbial blocking textile driven by triboelectric charges, Nano Energy 110, 108343 (2023)
         4.	Y.-J. Kim#, H. T. Kim#, J. H. Lee#, I.-Y. Suh, S.-W. Kim*, Self-powered Fine Dust Filtration System Using Triboelectrification Induced Electric Field, Nanoscale Research Letters 17, 1-9 (2022)
