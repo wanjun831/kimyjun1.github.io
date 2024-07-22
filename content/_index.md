@@ -82,13 +82,6 @@ sections:
       # For Showcase view, flip alternate rows? #
       flip_alt_rows: false
 
-  - block: portfolio
-    id: projects
-    content:
-      text: |
-        **Contrubuting Authored Papers**<p>
-        - Notes: # indicates equally contributing authors. * indicates the corresponding author(s).
-
   - block: markdown
     id: patents
     content:
