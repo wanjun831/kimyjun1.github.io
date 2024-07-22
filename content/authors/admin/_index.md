@@ -63,6 +63,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently a Postdoctral Fellow in Advanced Functional Polymers Center [(advisor: Dr. Yun Ho Kim)](https://sites.google.com/view/krict-polymer) at the Korea Research Institute of Chemical Technology, a journey I embarked on in 2023. Before I join KRICT, I got Ph.D at Sungkyunkwan University [(advisor: Prof. Sang-Woo Kim)](https://ehl.yonsei.ac.kr/).
+I am currently a Postdoctral Fellow in Advanced Functional Polymers Center [(advisor: Dr. Yun Ho Kim)](https://sites.google.com/view/krict-polymer) at the Korea Research Institute of Chemical Technology, a journey I embarked on in 2023.08. Before I join KRICT, I got Ph.D at Sungkyunkwan University [(advisor: Prof. Sang-Woo Kim)](https://ehl.yonsei.ac.kr/).
 
 My primary interest lies in energy harvesting based on mechanical movement and its applications in biomedical engineering. I synthesize **biocompatible materials** for triboelectric and piezoelectric energy harvesting, primarily using them in **implantable medical devices**, such as those for neuromodulation, pain blocking, and wound healing. Additionally, I utilize these materials for **pathogen control**, employing electroporation to inactivate airborne and waterborne pathogens.
