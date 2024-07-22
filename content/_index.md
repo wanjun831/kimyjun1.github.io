@@ -62,8 +62,11 @@ sections:
     id: projects
     content:
       title: Journal Publications
+      - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+        icon_pack: fas
+        link: https://scholar.google.co.kr/citations?user=hTVt6tEAAAAJ&hl=en
       text: |
-        [Full paper list](https://scholar.google.co.kr/citations?user=hTVt6tEAAAAJ&hl=en)<p>**First Authored Papers**<p>
+        Full paper list[(Google scholar)](https://scholar.google.co.kr/citations?user=hTVt6tEAAAAJ&hl=en)<p>**First Authored Papers**<p>
         - Notes: # indicates equally contributing authors. * indicates the corresponding author(s).
     
 
