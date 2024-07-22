@@ -63,7 +63,7 @@ sections:
     content:
       title: Journal Publications
       text: |
-        Full paper list[(Google scholar)](https://scholar.google.co.kr/citations?user=hTVt6tEAAAAJ&hl=en)<p>**First Authored Papers**<p>
+        Full paper list [(Google scholar)](https://scholar.google.co.kr/citations?user=hTVt6tEAAAAJ&hl=en)<p>**First Authored Papers**<p>
         - Notes: # indicates equally contributing authors. * indicates the corresponding author(s).
     
 
