@@ -7,6 +7,9 @@ main:
   - name: Awards
     url: '#awards-and-honors'
     weight: 10
+  - name: Research
+    url: '#Research topics'
+    weight: 20
   - name: Publications
     url: '#projects'
     weight: 30

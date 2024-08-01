@@ -58,6 +58,30 @@ sections:
         - Best Presentation Award (NCC 2022)
         - Excellent Student Presentation Award (ECS 242nd Meeting)
       # `content` 폴더 안의 `awards.md` 파일 내용을 여기에 직접 삽입합니다.
+
+- block: portfolio
+    id: projects
+    content:
+      title: Research
+      text: |
+        **Research topics**<p>
+      filters:
+        folders:
+          - research
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      view: showcase
+      # For Showcase view, flip alternate rows? #
+      flip_alt_rows: false
+
   - block: portfolio
     id: projects
     content:
