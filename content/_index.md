@@ -42,22 +42,7 @@ sections:
       title:  
       username: admin
       # Choose a user profile to display (a folder name within `content/authors/`)
-  - block: markdown
-    id: awards-and-honors
-    content:
-      title: Awards and Honors #1
-      text: |
-        - **Sejong Science Fellowship** (Domestic Track, 5 years, 100,000,000 KRW/year ≒ 72,000 USD/year) <p>*Allowed to be dispatched to overseas research institute for 1 year 
-        - Samsung Humantech Silver Medal (2023)
-        - Outstanding Poster Presentation Award (12th TBIS)
-        - Energy Technology Innovation Ideas (Ministry of Ministry of Commerce Industry and Energy)
-        - SKKU Research Matters
-        - Best Paper Award (PVSEC-30 & GPVC 2020)
-        - SKKU Best Paper Award
-        - The Best Outstanding Master/Ph.D Student Award, BK21 Program
-        - Best Presentation Award (NCC 2022)
-        - Excellent Student Presentation Award (ECS 242nd Meeting)
-      # `content` 폴더 안의 `awards.md` 파일 내용을 여기에 직접 삽입합니다.
+
   - block: portfolio
     id: research
     content:
@@ -136,7 +121,22 @@ sections:
         21.	Z.-Y. Huo, D.-M. Lee, S. Wang, **Y.-J. Kim**, and S.-W. Kim*, [Emerging Energy Harvesting Materials and Devices for Self-Powered Water Disinfection](https://onlinelibrary.wiley.com/doi/abs/10.1002/smtd.202100093), **Small Methods** 5, 2100093 (2021) (review articles)
         22.	H.-J. Yoon#, D.-M. Lee#, **Y.-J. Kim**, S. Jeon, J.-H. Jung, S. S. Kwak, J. Kim, S. Kim, Y. Kim, and S.-W. Kim*, [Mechanoreceptor-Inspired Dynamic Mechanical Stimuli Perception based on Switchable Ionic Polarization](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202100649), **Advanced Functional Materials** 31, 2100649 (2021)
       # `content` 폴더 안의 `awards.md` 파일 내용을 여기에 직접 삽입합니다.
-
+  - block: markdown
+    id: awards-and-honors
+    content:
+      title: Awards and Honors #1
+      text: |
+        - **Sejong Science Fellowship** (Domestic Track, 5 years, 100,000,000 KRW/year ≒ 72,000 USD/year) <p>*Allowed to be dispatched to overseas research institute for 1 year 
+        - Samsung Humantech Silver Medal (2023)
+        - Outstanding Poster Presentation Award (12th TBIS)
+        - Energy Technology Innovation Ideas (Ministry of Ministry of Commerce Industry and Energy)
+        - SKKU Research Matters
+        - Best Paper Award (PVSEC-30 & GPVC 2020)
+        - SKKU Best Paper Award
+        - The Best Outstanding Master/Ph.D Student Award, BK21 Program
+        - Best Presentation Award (NCC 2022)
+        - Excellent Student Presentation Award (ECS 242nd Meeting)
+      # `content` 폴더 안의 `awards.md` 파일 내용을 여기에 직접 삽입합니다.
   - block: markdown
     id: patents
     content:
