@@ -58,7 +58,7 @@ sections:
         - Best Presentation Award (NCC 2022)
         - Excellent Student Presentation Award (ECS 242nd Meeting)
       # `content` 폴더 안의 `awards.md` 파일 내용을 여기에 직접 삽입합니다.
-- block: portfolio
+- block: featured
     id: research
     content:
       title: Research
