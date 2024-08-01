@@ -39,7 +39,7 @@
   {{ with $resource }}
   {{ $image := .Fit (printf "808x455 q90") }}
   <a href="{{ $item.RelPermalink }}">
-    <img src="{{ $image.RelPermalink }}" class="article-banner" alt="{{ $item.Title }}" loading="lazy" style="object-fit: contain;">
+    <img src="{{ $image.RelPermalink }}" class="article-banner" alt="{{ $item.Title }}" loading="lazy" style="object-fit: contain; width: 100%; height: 200px;">
   </a>
   {{end}}
 
