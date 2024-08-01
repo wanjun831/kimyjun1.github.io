@@ -44,6 +44,8 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
 
   - block: portfolio
+    widget: featured
+    headless: true
     id: research
     content:
       title: Research
@@ -58,6 +60,7 @@ sections:
       columns: '2'
       view: 3
       # For Showcase view, flip alternate rows?
+      
   - block: portfolio
     id: projects
     content:
