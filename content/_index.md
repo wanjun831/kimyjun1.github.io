@@ -56,7 +56,7 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
-      view: li_card
+      view: card
       # For Showcase view, flip alternate rows?
       
   - block: portfolio
