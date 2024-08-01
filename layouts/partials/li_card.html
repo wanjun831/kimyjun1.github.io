@@ -7,48 +7,41 @@
   <style>
     .article-banner {
       width: 100%;
-      height: auto; /* 기본적으로 높이를 자동으로 설정 */
-      object-fit: cover; /* 이미지를 컨테이너에 맞게 자르기 */
-      display: block; /* 이미지를 블록 요소로 설정 */
-      margin: 0 auto; /* 이미지를 중앙에 위치 */
-    }
-
-    /* 특정 높이를 지정하고 싶다면 아래 코드 추가 */
-    .card-simple img.article-banner {
-      height: 200px; /* 원하는 높이로 설정 */
+      height: auto;
+      object-fit: cover;
+      display: block;
+      margin: 0 auto;
     }
 
     @media (max-width: 768px) {
-      .card-simple img.article-banner {
-        height: 150px; /* 작은 화면에서는 높이를 줄이기 */
+      .article-banner {
+        height: 150px;
       }
     }
 
     @media (min-width: 769px) {
-      .card-simple img.article-banner {
-        height: 300px; /* 큰 화면에서는 높이를 늘리기 */
+      .article-banner {
+        height: 300px;
       }
     }
   </style>
 </head>
 <body>
-  <!-- 기존 템플릿 코드 -->
-  {{ $item := . }}
-
-  {{/* Dynamic view adjusts to content type. */}}
-  {{ $has_attachments := partial "functions/has_attachments" . }}
-
-  {{/* Get summary. */}}
-  {{ $summary := "" }}
-  {{ if $item.Params.summary }}
-    {{ $summary = $item.Params.summary | markdownify | emojify }}
-  {{ else if .Params.abstract }}
-    {{ $summary = .Params.abstract | markdownify | emojify }}
-  {{ else if $item.Summary }}
-    {{ $summary = $item.Summary }}
-  {{ end }}
-
   <div class="card-simple">
+    {{ $item := . }}
+
+    {{/* Dynamic view adjusts to content type. */}}
+    {{ $has_attachments := partial "functions/has_attachments" . }}
+
+    {{/* Get summary. */}}
+    {{ $summary := "" }}
+    {{ if $item.Params.summary }}
+      {{ $summary = $item.Params.summary | markdownify | emojify }}
+    {{ else if .Params.abstract }}
+      {{ $summary = .Params.abstract | markdownify | emojify }}
+    {{ else if $item.Summary }}
+      {{ $summary = $item.Summary }}
+    {{ end }}
 
     {{ if eq $item.Type "event" }}
     <div class="article-metadata">
@@ -72,11 +65,11 @@
     {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
     {{ $anchor := $item.Params.image.focal_point | default "Smart" }}
     {{ with $resource }}
-    {{ $image := .Fit (printf "808x455 q90") }}
+    {{ $image := .Fill "400x200" }}
     <a href="{{ $item.RelPermalink }}">
       <img src="{{ $image.RelPermalink }}" class="article-banner" alt="{{ $item.Title }}" loading="lazy">
     </a>
-    {{end}}
+    {{ end }}
 
     <div class="section-subheading article-title mb-1 mt-3">
       <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>
@@ -85,7 +78,7 @@
     {{ with $summary }}
     <a href="{{ $item.RelPermalink }}" class="summary-link">
       <div class="article-style">
-        <p>{{.}}</p>
+        <p>{{ . }}</p>
       </div>
     </a>
     {{ end }}
@@ -95,7 +88,6 @@
       {{ partial "page_links" (dict "page" $item "is_list" 1) }}
     </div>
     {{ end }}
-
   </div>
 </body>
 </html>
