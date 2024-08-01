@@ -10,11 +10,6 @@ image:
   caption:   
   focal_point: Smart
 
-links:
-  - icon: link
-    icon_pack: fas
-    name: link
-    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202307194
 url_code: ''
 url_pdf: ''
 url_slides: ''
