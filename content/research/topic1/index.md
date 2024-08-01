@@ -1,6 +1,6 @@
 ---
 title: (Topic 1) Ultrasound driven-energy harvesting
-summary: Development of energy solution technology that can charge the batteries of implantable medical devices without replacement surgery through ultrasound-based triboelectric energy harvesting
+summary: Development of energy solution technology that can charge the batteries of implantable medical devices without replacement surgery through ultrasound-based triboelectric energy harvesting.
 date: '2024-01-12T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
