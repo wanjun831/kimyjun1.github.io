@@ -46,6 +46,12 @@ sections:
   - block: portfolio
     id: research
     content:
+      # Page type to display. E.g. post, talk, publication...
+      page_type: publication
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 0
+      # Filter on criteria
+      order: desc
       title: Research
       text: |
         **Research topics**<p>
@@ -61,8 +67,8 @@ sections:
       # To remove the toolbar, delete the entire `filter_button` block.
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: 2
+      columns: '2'
+      view: 3
       # For Showcase view, flip alternate rows? #
       flip_alt_rows: false
 
