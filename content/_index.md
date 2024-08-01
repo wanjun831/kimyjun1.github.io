@@ -43,9 +43,8 @@ sections:
       username: admin
       # Choose a user profile to display (a folder name within `content/authors/`)
 
-  - block: portfolio
+  - block: featured
     widget: featured
-    headless: true
     id: research
     content:
       title: Research
@@ -53,11 +52,10 @@ sections:
         folders:
           - research
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-    count: 0
-    order: desc
+      order: desc
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: 3
       # For Showcase view, flip alternate rows?
       
