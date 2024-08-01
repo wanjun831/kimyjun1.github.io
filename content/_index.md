@@ -46,10 +46,7 @@ sections:
   - block: portfolio
     id: research
     content:
-      
       title: Research
-      text: |
-        **Research topics**<p>
       filters:
         folders:
           - research
@@ -60,9 +57,7 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
       view: 3
-      # For Showcase view, flip alternate rows? #
-      flip_alt_rows: false
-
+      # For Showcase view, flip alternate rows?
   - block: portfolio
     id: projects
     content:
