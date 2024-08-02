@@ -43,7 +43,7 @@ sections:
       username: admin
       # Choose a user profile to display (a folder name within `content/authors/`)
 
-  - block: portfolio
+  - block: collection
     widget: featured
     id: research
     content:
@@ -55,8 +55,8 @@ sections:
       order: desc
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: card
+      columns: '2'
+      view: 3
       # For Showcase view, flip alternate rows?
       
   - block: portfolio
