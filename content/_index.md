@@ -44,7 +44,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
 
   - block: collection
-    widget: featured-publications
+    widget: featured
     id: research
     content:
       title: Research
