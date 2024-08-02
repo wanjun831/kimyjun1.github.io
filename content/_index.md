@@ -44,11 +44,12 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
 
   - block: collection
-    widget: featured
+    widget: featured-publications
     id: research
     content:
       title: Research
       filters:
+        - publication_type: "2"
         folders:
           - research
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
@@ -56,7 +57,6 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
-      view: card
       # For Showcase view, flip alternate rows?
       
   - block: portfolio
