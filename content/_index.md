@@ -49,7 +49,7 @@ sections:
     content:
       title: Research
       filters:
-        publication_type: "2"
+        publication_type: ["2"]
         folders:
           - research
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
