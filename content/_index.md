@@ -43,7 +43,7 @@ sections:
       username: admin
       # Choose a user profile to display (a folder name within `content/authors/`)
 
-  - block: collection
+  - block: portfolio
     widget: featured
     id: research
     content:
