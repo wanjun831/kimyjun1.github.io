@@ -10,6 +10,18 @@ image:
   caption:   
   focal_point: Smart
 
+block: portfolio
+content:
+  title: Related works
+  filters:
+    folders:
+      - topic1-1
+  design:
+    # Choose how many columns the section has. Valid values: '1' or '2'.
+    columns: '1'
+    view: showcase
+      # For Showcase view, flip alternate rows? #
+    flip_alt_rows: false
 url_code: ''
 url_pdf: ''
 url_slides: ''
