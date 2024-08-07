@@ -41,6 +41,8 @@ sections:
     content:
       title:  
       username: admin
+      text: |
+        **Teaching experience**<p>      
       # Choose a user profile to display (a folder name within `content/authors/`)
 
   - block: collection
