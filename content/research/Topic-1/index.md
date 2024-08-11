@@ -6,6 +6,10 @@ type: research
 tags:
   - Topic-1
 featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
