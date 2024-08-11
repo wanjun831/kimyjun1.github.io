@@ -29,7 +29,7 @@ url_video: ''
 
 ---
 <style>
-body.page-template-research .page-header-image {
+.page-header-image {
   display: none !important;
 }
 </style>
