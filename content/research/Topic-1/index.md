@@ -29,7 +29,7 @@ url_video: ''
 
 ---
 <style>
-.post-featured-image {
+body.page-template-research .page-header-image {
   display: none !important;
 }
 </style>
