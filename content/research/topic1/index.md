@@ -20,7 +20,9 @@ url_video: ''
 # slides: example
 
 ---
+{{< figure src="/uploads/test1.png" title="Acoustic impedance" caption="topic1-1 acoustic mismatching technology" >}}
 Development of ultrasonic-sensitive materials and ultrasound-based triboelectric energy-harvesting devices
 - Behavioral analysis of triboelectric material under high-frequency ultrasound and development of a material that maximizes ultrasonic vibration by controlling the acoustic impedance
 - Development of a high-performance ultrasound-driven triboelectric energy harvesting device through optimization of the reflection and transmission of ultrasonic waves at interfaces of materials
 - Optimization of structure of ultrasound-based triboelectric energy harvesting devices
+---
