@@ -2,6 +2,9 @@
 title: (Topic 2) Pathogen control with triboelectricity
 summary: Development of pathogen control energy solution technology that can block and inactivate pathogens with electrical energy obtained by triboelectric energy harvesting.
 date: '2024-01-11T00:00:00Z'
+type: docs
+tags:
+  - Topic 2
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
