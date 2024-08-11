@@ -56,7 +56,7 @@ sections:
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
     design:
       view: grid
-      columns: 2
+      columns: '2'
       # Choose how many columns the section has. Valid values: '1' or '2'.
       # For Showcase view, flip alternate rows?
       
