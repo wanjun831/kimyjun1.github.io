@@ -54,7 +54,6 @@ sections:
         folders:
           - research
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-        featured_only: true
     design:
       view: grid
       columns: 2
