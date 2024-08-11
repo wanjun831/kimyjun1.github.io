@@ -29,7 +29,7 @@ url_video: ''
 
 ---
 <style>
-.page-header-image {
+.featured-image {
   display: none !important;
 }
 </style>
