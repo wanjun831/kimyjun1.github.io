@@ -5,6 +5,7 @@ date: '2024-01-12T00:00:00Z'
 type: research
 tags:
   - Topic-1
+featured: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
