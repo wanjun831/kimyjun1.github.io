@@ -41,9 +41,13 @@ sections:
     content:
       title:  
       username: admin
+      button:
+        text: Download CV
+        url: uploads/CV_Young-Jun Kim.pdf
       # Choose a user profile to display (a folder name within `content/authors/`)
 
   - block: collection
+    widget: featured
     id: research
     content:
       title: Research
@@ -53,8 +57,8 @@ sections:
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      view: article-grid
-      columns: 2
+      view: card
+      columns: '2'
       # For Showcase view, flip alternate rows?
       
   - block: portfolio
