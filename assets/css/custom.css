@@ -1,0 +1,7 @@
+.custom-banner .article-banner {
+    width: 800px !important;
+    height: auto !important;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+  }
