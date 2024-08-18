@@ -59,7 +59,7 @@ sections:
       columns: '2'
       # Choose how many columns the section has. Valid values: '1' or '2'.
       # For Showcase view, flip alternate rows?
-      style: |
+      html: |
         <style>
           img.article-banner {
             width: 640px !important;
