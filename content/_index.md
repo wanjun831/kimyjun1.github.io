@@ -60,13 +60,12 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       # For Showcase view, flip alternate rows?
       style: |
-        .article-banner {
-          width: 800px;
-          height: auto;
-          object-fit: cover;
-          display: block;
-          margin: 0 auto;
-        }
+        <style>
+          .article-banner {
+            width: 648px !important;
+            height: auto !important;
+            object-fit: cover;
+          }
       
   - block: portfolio
     id: projects
