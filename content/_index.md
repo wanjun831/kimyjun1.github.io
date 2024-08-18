@@ -61,8 +61,8 @@ sections:
       # For Showcase view, flip alternate rows?
       style: |
         <style>
-          .article-banner {
-            width: 648px !important;
+          img.article-banner {
+            width: 640px !important;
             height: auto !important;
             object-fit: cover;
           }
