@@ -30,7 +30,7 @@ education:
       institution: Sungkyunkwan University (SKKU)
       year: 2023.08
     - course: B.S. in Mechanical Engineering
-      institution: Hanyang University
+      institution: Hanyang University (HYU)
       year: 2019.02
     
 
