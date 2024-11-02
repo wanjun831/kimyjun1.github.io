@@ -9,7 +9,7 @@ superuser: true
 organizations:
   - name: KRICT
     url: https://www.krict.re.kr/eng/index.do;jsessionid=5FDC8EF969794D3B1396339E2841B0D2
-  - name: Postdoctrol fellow
+  - name: Postdoctoral Fellow
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses generating static electricity by mechanical energy and, use it for biomedical applications.
