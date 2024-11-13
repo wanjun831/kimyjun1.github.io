@@ -167,7 +167,7 @@ sections:
           - photo
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
     design:
-      view: list
+      view: compact
       # columns: '3'
       # Choose how many columns the section has. Valid values: '1' or '2'.
       # For Showcase view, flip alternate rows?
