@@ -158,7 +158,7 @@ sections:
 
       # `content` 폴더 안의 `awards.md` 파일 내용을 여기에 직접 삽입합니다.
 
-  - block: cportfolio
+  - block: portfolio
     id: gallery
     content:
       title: Gallery
@@ -168,7 +168,7 @@ sections:
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
     design:
       view: showcase
-      columns: '2'
+      columns: '3'
       # Choose how many columns the section has. Valid values: '1' or '2'.
       # For Showcase view, flip alternate rows?
 
