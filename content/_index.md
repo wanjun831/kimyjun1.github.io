@@ -157,14 +157,19 @@ sections:
         4. KR Application No. 10-2020-0145170, US Application No. 17/510,675 Energymining Co., Ltd., (300,000,000 KRW)<p>
 
       # `content` 폴더 안의 `awards.md` 파일 내용을 여기에 직접 삽입합니다.
-  - block: markdown
+
+  - block: collection
     id: gallery
     content:
       title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
+      filters:
+        folders:
+          - photo
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
     design:
-      columns: '1'
-  
+      view: card
+      columns: '3'
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      # For Showcase view, flip alternate rows?
+
 ---
