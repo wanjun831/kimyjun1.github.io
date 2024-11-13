@@ -1,6 +1,6 @@
 ---
 title: SAMSUNG Humantech silver medal
-summary: Photh with Youngwook Chung, Joon-Ha Hwang and Jiho Lee.
+summary: Photo with Youngwook Chung, Joon-Ha Hwang and Jiho Lee.
 date: '2024-07-20T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
