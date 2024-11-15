@@ -1,5 +1,5 @@
 ---
-title: Sustainable triboelectric energy harvesting for simultaneous acoustic power transfer and communication
+title: Acoustic Tunable Battery-Free Implants Based on Sustainable Triboelectric Nanogenerators With Metal-Polymer Intermixing Layers
 summary: Y. Chung#, H. Yuan#, Z. Wang#, J.-M Jeong, B.-J. Park, J.-H. Hwang, B.-O. Choi, H. Park, Y.-J. Kim*, K. Dai*, S.-W. Kim*, **Advanced Energy Materials**, accepted.
 date: '2024-07-19T00:00:00Z'
 
@@ -10,6 +10,11 @@ image:
   caption:   
   focal_point: Smart
 
+links:
+  - icon: link
+    icon_pack: fas
+    name: link
+    url: https://onlinelibrary.wiley.com/doi/10.1002/aenm.202403712
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -23,4 +28,4 @@ url_video: ''
 # slides: example
 ---
 
-The growing demand for a new generation of battery-free implantable electronics necessitates sustainable wireless energy transfer technologies. Recently, ultrasound-driven triboelectric nanogenerators (US-TENGs) have emerged as an innovative solution for battery-free implantable electronics. However, an inadequate understanding of the triboelectric energy harvesting system in the body environment, and the lack of materials design based on that understanding, hinder progress toward sustainable energy sources. Through simulations and experimental investigations, we reveal that the electrical potential induced in US-TENGs is strongly influenced by the body environment and that the double-electrode mode is essential to achieve high current, generating 666% more than the single-electrode mode. Furthermore, we demonstrate that a flexible electrode with metal nanoparticles, which exhibit highly stable intermixing properties under ultrasound vibration, is essential for sustainable triboelectric energy generation. This technology can achieve not only acoustic power transfer but also sophisticated communication, enabling the generation of adjustable neurostimulation pulses without assistance from any other energy sources. The results demonstrate its potential as a sustainable energy source for versatile battery-free implantable electronics.
+Ultrasound-driven triboelectric nanogenerators (US-TENGs) offer an innovative solution for transcutaneous power transfer, with the potential to enable battery-free, permanently implantable electronics. However, research to date has primarily demonstrated only fragmentary functionalities for these applications. This work presents the simultaneous transmission of acoustic power and precise acoustic information using a double-electrode US-TENG, enabling a battery-free implant controlled via ultrasound. High and sustained output from a US-TENG is crucial for operating the versatile system; therefore, a novel triboelectric membrane with a top electrode incorporating a gold-polymer intermixing layer has been designed. Reversible micro-cracks form in the intermixing layer, ensuring electrical connectivity under high-frequency strain. In vivo experiments confirm that the system is biocompatible and can be reliably operated inside living rats. These achievements represent a significant step toward realizing multifunctional implantable electronics that can be reliably powered and controlled by ultrasound.
