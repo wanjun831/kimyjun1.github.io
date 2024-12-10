@@ -106,7 +106,7 @@ sections:
         
         **Contributing authored papers** <p>
 
-        8.  D. Kim#, Y. Kwon#, Y. So, **Y.-J. Kim**, S. W. Park, H. Park, J. Hwang, J. Park, C. Kim, J. C. Won, J. H. Kim*, Y. H. Kim*, Water-Borne Fluorinated Polyimide Dielectric for Large-Area IGZO Transistors and Logic Gates, **ACS Applied Materials & Interfaces**, accepted (2024)
+        8.  D. Kim#, Y. Kwon#, Y. So, **Y.-J. Kim**, S. W. Park, H. Park, J. Hwang, J. Park, C. Kim, J. C. Won, J. H. Kim*, Y. H. Kim*, [Water-Borne Fluorinated Polyimide Dielectric for Large-Area IGZO Transistors and Logic Gates](https://pubs.acs.org/doi/10.1021/acsami.4c14938), **ACS Applied Materials & Interfaces**, accepted (2024)
         9.	Y. Chung#, J.-M. Jeong#, J.-H. Hwang#, **Y.-J. Kim**, B.-J. Park, D. S. Cho, Y. Cho, S. J. Suh, B.-O. Choi, H. Park*, H.-J. Yoon*, S.-W. Kim*, [Gigantic triboelectric power generation overcoming acoustic energy barrier using metal-liquid coupling](https://www.cell.com/joule/abstract/S2542-4351(24)00292-7), **Joule** 8, 2681-2695 (2024)
         10.	M. Kang#, H. Yum#, H. T. Kim#, B. J. Park, Y. Choi, H. J. Kim, Y. Cho, **Y.-J. Kim**, D.-M. Lee, D.-G. Lee, H.-C. Song, S. H. Nam, J. H. Lee*, B.-O. Choi*, S.-W. Kim*, [Self-Powered Electrical Bandage Based on Body-Coupled Energy Harvesting](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202402491), **Advanced Materials** 36, 2402491 (2024) 
         11.	I.-Y. Suh#, Z.-Y. Huo#, J.-H. Jung#, D. Kang, D.-M. Lee, **Y.-J. Kim**, B. Kim, J. Jeon, P. Zhao, J. Shin, S. Kim, S.-W. Kim*, [Highly efficient microbial inactivation enabled by tunneling charges injected through two-dimensional electronics](https://www.science.org/doi/full/10.1126/sciadv.adl5067), **Science Advances** 10, eadl5067 (2024)
