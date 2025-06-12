@@ -1,7 +1,7 @@
 ---
 title: Unconventional piezoelectricity in twisted multi-layer molybdenum disulfide
 summary: Y.-J. Kim#, P. Zhao#, J. Shin#, T. H. Kim, A. Sohn, H.-J. Yoon, S. Jeon, S.-H. Kim, S.-W. Kim*, **TBD**, submitted.
-date: '2024-07-20T00:00:00Z'
+date: '2024-07-21T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
