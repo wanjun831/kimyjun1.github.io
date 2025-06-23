@@ -23,4 +23,4 @@ url_video: ''
 # slides: example
 ---
 
-Will be uptated later.
+[Highlighted in Nature](https://www.nature.com/articles/d41586-024-01074-9) 628, 693 (2024) 

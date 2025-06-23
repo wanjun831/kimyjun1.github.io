@@ -23,4 +23,3 @@ url_video: ''
 # slides: example
 ---
 
-Will be uptated later.
