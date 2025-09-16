@@ -7,9 +7,9 @@ superuser: true
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: KRICT
-    url: https://www.krict.re.kr/eng/index.do;jsessionid=5FDC8EF969794D3B1396339E2841B0D2
-  - name: Postdoctoral Fellow
+  - name: Caltech
+    url: https://www.gao.caltech.edu/
+  - name: Postdoctoral researcher
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses generating static electricity by mechanical energy and, use it for biomedical applications.
@@ -42,7 +42,7 @@ social:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:kimyjun@krict.re.kr'
+  link: 'mailto:kimyjun@caltech.edu'
   display:
     header: true
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -63,7 +63,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently a Postdoctoral Fellow in Advanced Functional Polymers Center [(advisor: Dr. Yun Ho Kim)](https://sites.google.com/view/krict-polymer) at the Korea Research Institute of Chemical Technology. Before I join KRICT, I received a doctorate in Advanced Materials Science and Engineering from Sungkyunkwan University [(advisor: Prof. Sang-Woo Kim)](https://ehl.yonsei.ac.kr/). I have funding (**Sejong Science Fellowship**, Domestic Track, 5 years, 100,000,000 KRW/year ≒ 72,000 USD/year), and **I can use this funding abroad for 1 year whenever I want**.
+I am currently a postdoctoral researcher in Medical Engineering [(advisor: Prof. Wei Gao)](https://www.gao.caltech.edu/) at the California Institute of Technology. Before I join Caltech I was a postdoctoral researcher in Advanced Functional Polymers Center [(advisor: Dr. Yun Ho Kim)](https://sites.google.com/view/krict-polymer) at the Korea Research Institute of Chemical Technology. And, I received a doctorate in Advanced Materials Science and Engineering from Sungkyunkwan University [(advisor: Prof. Sang-Woo Kim)](https://ehl.yonsei.ac.kr/). I have funding (**Sejong Science Fellowship**, Domestic Track, 5 years, 100,000,000 KRW/year ≒ 72,000 USD/year), and **I can use this funding abroad for 1 year whenever I want**.
 
 My primary interest lies in energy harvesting based on mechanical movement and its applications in biomedical engineering. I synthesize **biocompatible materials** for triboelectric and piezoelectric energy harvesting, primarily using them in **implantable medical devices**, such as those for neuromodulation, pain blocking, and wound healing. Additionally, I utilize these materials for **pathogen control**, employing electroporation to inactivate airborne and waterborne pathogens.
 
