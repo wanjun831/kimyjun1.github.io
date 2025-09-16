@@ -63,7 +63,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently a postdoctoral researcher in Medical Engineering [(advisor: Prof. Wei Gao)](https://www.gao.caltech.edu/) at the California Institute of Technology. Before I join Caltech, I was a postdoctoral researcher in Advanced Functional Polymers Center [(advisor: Dr. Yun Ho Kim)](https://sites.google.com/view/krict-polymer) at the Korea Research Institute of Chemical Technology. And, I received a doctorate in Advanced Materials Science and Engineering from Sungkyunkwan University [(advisor: Prof. Sang-Woo Kim)](https://ehl.yonsei.ac.kr/).
+I am currently a postdoctoral researcher in Medical Engineering [(advisor: Prof. Wei Gao)](https://www.gao.caltech.edu/) at **California Institute of Technology**. Before I join Caltech, I was a postdoctoral researcher in Advanced Functional Polymers Center [(advisor: Dr. Yun Ho Kim)](https://sites.google.com/view/krict-polymer) at the Korea Research Institute of Chemical Technology. And, I received a doctorate in Advanced Materials Science and Engineering from Sungkyunkwan University [(advisor: Prof. Sang-Woo Kim)](https://ehl.yonsei.ac.kr/).
 
 My primary interest lies in energy harvesting based on mechanical movement and its applications in biomedical engineering. I synthesize **biocompatible materials** for triboelectric and piezoelectric energy harvesting, primarily using them in **implantable medical devices**, such as those for neuromodulation, pain blocking, and wound healing. Additionally, I utilize these materials for **pathogen control**, employing electroporation to inactivate airborne and waterborne pathogens.
 
