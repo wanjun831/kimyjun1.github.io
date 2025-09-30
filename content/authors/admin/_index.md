@@ -9,7 +9,7 @@ superuser: true
 organizations:
   - name: Caltech
     url: https://www.gao.caltech.edu/
-  - name: Postdoctoral researcher
+  - name: Postdoctoral researcher (kimyjun@caltech.edu)
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses generating static electricity by mechanical energy and, use it for biomedical applications.

@@ -1,6 +1,6 @@
 ---
 title: Virus blocking textile for SARS-CoV-2 using human body triboelectric energy harvesting
-summary: M. Kang#, N.-Y. Jang#, Y.-J. Kim#, H.-J. Ro#, D. Kim, Y. Kim, H. T. Kim, H. M. Kwon, J.-H. Ahn, B.-O. Choi, N.-H. Cho*, and S.-W. Kim*, **Cell Reports Physical Science*** 3, 100813 (2022)
+summary: M. Kang#, N.-Y. Jang#, Y.-J. Kim#, H.-J. Ro#, D. Kim, Y. Kim, H. T. Kim, H. M. Kwon, J.-H. Ahn, B.-O. Choi, N.-H. Cho*, and S.-W. Kim*, **Cell Reports Physical Science** 3, 100813 (2022)
 date: '2022-04-20T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
