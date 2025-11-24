@@ -1,7 +1,160 @@
-.custom-banner .article-banner {
-    width: 800px !important;
-    height: auto !important;
-    object-fit: cover;
-    display: block;
-    margin: 0 auto;
+/* ================================
+   Global background (light / dark)
+   ================================ */
+
+/* Light mode: 부드러운 파스텔 그라디언트 */
+body.light {
+  background: linear-gradient(
+    140deg,
+    #eef2ff 0%,
+    #fdfbff 40%,
+    #e8fff5 100%
+  );
+}
+
+/* Dark mode: 보라 + 남색 + 녹청 그라디언트 */
+body.dark {
+  background: radial-gradient(circle at top left,
+      #111827 0%,
+      #0f172a 30%,
+      #1e293b 60%,
+      #0f1f1c 100%);
+}
+
+/* 기본 여백 리셋 */
+body {
+  margin: 0;
+  min-height: 100vh;
+}
+
+/* ================================
+   Hero / About 섹션 (상단 프로필)
+   ================================ */
+
+.home-section.wg-hero,
+.home-section.wg-about {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+/* 약간 더 넓은 중앙 정렬 느낌 */
+.home-section.wg-hero .container,
+.home-section.wg-about .container {
+  max-width: 1180px;
+}
+
+/* ================================
+   카드 스타일 (Education 등)
+   ================================ */
+
+.card {
+  border-radius: 1.25rem;
+  border: none;
+  box-shadow: 0 18px 45px rgba(15, 23, 42, 0.18);
+  transition: transform 0.18s ease, box-shadow 0.18s ease,
+              background 0.18s ease;
+}
+
+/* Light mode 카드 */
+body.light .card {
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(12px);
+}
+
+/* Dark mode 카드 */
+body.dark .card {
+  background: rgba(17, 24, 39, 0.65);
+  backdrop-filter: blur(14px);
+  border: 1px solid rgba(148, 163, 184, 0.2);
+}
+
+/* 호버 시 살짝 떠오르는 느낌 */
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 22px 55px rgba(15, 23, 42, 0.25);
+}
+
+/* ================================
+   버튼 (Download CV 등)
+   ================================ */
+
+.btn-primary {
+  border-radius: 0.9rem;
+  padding: 0.85rem 2.6rem;
+  font-weight: 600;
+  border: none;
+}
+
+/* 라이트 모드에서 조금 더 진한 보라 */
+body.light .btn-primary {
+  background: #5a4afe;
+}
+
+/* 다크 모드에서 강한 보라 버튼 */
+body.dark .btn-primary {
+  background: #5b4bff;
+  color: #f9fafb;
+}
+
+/* 호버 효과 */
+.btn-primary:hover,
+.btn-primary:focus {
+  transform: translateY(-1px);
+  box-shadow: 0 10px 26px rgba(88, 80, 236, 0.5);
+}
+
+/* ================================
+   소셜 아이콘 (아바타 아래 동그라미들)
+   ================================ */
+
+.network-icon {
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 0.1rem;
+  transition: transform 0.15s ease, box-shadow 0.15s ease,
+              background 0.15s ease;
+}
+
+/* Light mode 아이콘 배경 */
+body.light .network-icon {
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: 0 6px 18px rgba(148, 163, 184, 0.4);
+}
+
+/* Dark mode 아이콘 배경 */
+body.dark .network-icon {
+  background: rgba(15, 23, 42, 0.85);
+  border: 1px solid rgba(148, 163, 184, 0.3);
+  box-shadow: 0 8px 20px rgba(15, 23, 42, 0.8);
+}
+
+.network-icon:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 12px 26px rgba(15, 23, 42, 0.6);
+}
+
+/* 소셜 아이콘 색상 조금 맞춰주기 */
+.network-icon i {
+  font-size: 1.05rem;
+}
+
+/* ================================
+   Hero 제목/텍스트 살짝 튜닝 (선택)
+   ================================ */
+
+.wg-hero h1,
+.wg-about h1 {
+  font-size: 3rem;
+  font-weight: 800;
+}
+
+@media (min-width: 992px) {
+  .wg-hero h1,
+  .wg-about h1 {
+    font-size: 3.5rem;
   }
+}
