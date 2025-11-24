@@ -1,35 +1,31 @@
-/* 전체 문서 높이 확보 */
+/* ===== 공통 설정 ===== */
 html,
 body {
   margin: 0;
   min-height: 100%;
 }
 
-/* ------------------------------
-   라이트 모드 배경 (기본)
-   ------------------------------ */
-
-/* data-wc-theme가 light인 경우 + 아직 설정 안 된 기본 경우 둘 다 */
-html[data-wc-theme="light"] body,
-html:not([data-wc-theme]) body {
+/* ===== 라이트 모드: 아주 진한 테스트 색 (확인용) ===== */
+html body {
   background: linear-gradient(
-    140deg,
-    #eef2ff 0%,
-    #fdfbff 40%,
-    #e8fff5 100%
+    135deg,
+    #ff00ff 0%,
+    #00ffff 100%
   ) !important;
 }
 
-/* ------------------------------
-   다크 모드 배경
-   ------------------------------ */
-
+/* ===== 다크 모드: 완전 검정 (확인용) ===== */
+html.dark body,
 html[data-wc-theme="dark"] body {
-  background: radial-gradient(
-    circle at top left,
-    #111827 0%,
-    #0f172a 30%,
-    #1e293b 60%,
-    #0f1f1c 100%
-  ) !important;
+  background: #000000 !important;
+}
+
+/* 페이지 전체를 덮는 큰 컨테이너들이 흰색을 쓰지 못하게 막기 */
+main,
+.page,
+.page-wrapper,
+.page-body,
+.universal-wrapper,
+.docs-article-container {
+  background: transparent !important;
 }
