@@ -1,0 +1,59 @@
+<style>
+  /* 전체 문서 기본 세팅 */
+  html,
+  body {
+    margin: 0;
+    min-height: 100%;
+  }
+
+  /* ----- 라이트 모드 배경 (기본 + 아직 설정 안 된 경우) ----- */
+  html[data-wc-theme="light"] body,
+  html:not([data-wc-theme]) body {
+    background: linear-gradient(
+      140deg,
+      #eef2ff 0%,
+      #fdfbff 40%,
+      #e8fff5 100%
+    ) !important;
+    background-attachment: fixed;
+  }
+
+  /* ----- 다크 모드 배경 ----- */
+  html[data-wc-theme="dark"] body {
+    background: radial-gradient(
+      circle at top left,
+      #111827 0%,
+      #0f172a 30%,
+      #1e293b 60%,
+      #0f1f1c 100%
+    ) !important;
+    background-attachment: fixed;
+  }
+
+  /* ----- 페이지 안쪽 큰 래퍼들의 흰 배경 제거 ----- */
+  main,
+  .page,
+  .page-wrapper,
+  .page-body,
+  .blox-page,
+  .blox-page-body,
+  .universal-wrapper,
+  .article-container,
+  .docs-article-container,
+  .home-section,
+  .home-section-bg,
+  .section,
+  .section-bg,
+  #page {
+    background: transparent !important;
+  }
+
+  /* ----- 글 읽기용 카드/박스는 흰색 유지 (가독성) ----- */
+  .card,
+  .article,
+  .article-style,
+  .docs-article,
+  .blox-card {
+    background-color: #ffffff !important;
+  }
+</style>
