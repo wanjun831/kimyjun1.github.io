@@ -1,4 +1,4 @@
-/* 페이지 전체가 화면 높이 이상을 차지하도록 */
+/* 전체 문서 높이 확보 */
 html,
 body {
   margin: 0;
@@ -6,12 +6,12 @@ body {
 }
 
 /* ------------------------------
-   라이트 모드 배경
-   (파스텔 그라디언트)
+   라이트 모드 배경 (기본)
    ------------------------------ */
-body.light,
-html.light,
-html[data-theme="light"] {
+
+/* data-wc-theme가 light인 경우 + 아직 설정 안 된 기본 경우 둘 다 */
+html[data-wc-theme="light"] body,
+html:not([data-wc-theme]) body {
   background: linear-gradient(
     140deg,
     #eef2ff 0%,
@@ -22,11 +22,9 @@ html[data-theme="light"] {
 
 /* ------------------------------
    다크 모드 배경
-   (보라+남색 그라디언트)
    ------------------------------ */
-body.dark,
-html.dark,
-html[data-theme="dark"] {
+
+html[data-wc-theme="dark"] body {
   background: radial-gradient(
     circle at top left,
     #111827 0%,
