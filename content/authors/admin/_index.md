@@ -38,7 +38,7 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
+
 social:
 - icon: envelope
   icon_pack: fas
@@ -54,9 +54,10 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-9103-7065
-# - icon: download
-#   icon_pack: fas
-#   link: uploads/cv_sukkyung_kang.pdf
+- icon: download
+  icon_pack: fas
+  static/uploads/CV_Young-Jun Kim.pdf
+
 
 
 
