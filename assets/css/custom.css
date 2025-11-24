@@ -1,21 +1,72 @@
-/* 전체 배경 그radient 테스트 (라이트/다크 상관없이 공통 적용) */
+/* ===== 전체 문서 기본 설정 ===== */
 html,
 body {
   margin: 0;
   min-height: 100%;
-  background: linear-gradient(
-    135deg,
-    #f0f4ff 0%,
-    #ffeef6 100%
-  ) !important;
 }
 
-/* 내용 영역 카드들이 배경색을 덮어쓰지 않도록(선택 사항) */
+/* ================================
+   라이트 모드 배경 (기본)
+   ================================ */
+
+/* data-wc-theme 가 light 이거나, 아직 설정 안 된 기본 상태 둘 다 적용 */
+html[data-wc-theme="light"] body,
+html:not([data-wc-theme]) body {
+  background: linear-gradient(
+    135deg,
+    #eef2ff 0%,
+    #f9fafb 40%,
+    #e8fff5 100%
+  ) !important;
+  background-attachment: fixed;
+}
+
+/* ================================
+   다크 모드 배경
+   ================================ */
+
+html[data-wc-theme="dark"] body {
+  background: radial-gradient(
+    circle at top left,
+    #111827 0%,
+    #0f172a 30%,
+    #1e293b 60%,
+    #0f1f1c 100%
+  ) !important;
+  background-attachment: fixed;
+}
+
+/* ================================
+   큰 컨테이너 배경 투명 처리
+   (흰색 배경이 그라디언트를 가리는 것 방지)
+   ================================ */
+
 main,
 .page,
 .page-wrapper,
 .page-body,
+.blox-page,
+.blox-page-body,
 .universal-wrapper,
-.docs-article-container {
+.article-container,
+.docs-article-container,
+.home-section,
+.home-section-bg,
+.section,
+.section-bg,
+#page {
   background: transparent !important;
+}
+
+/* ================================
+   카드/박스는 읽기 좋게 흰색 유지
+   (본문 카드, 박스 안쪽은 흰색)
+   ================================ */
+
+.card,
+.article,
+.article-style,
+.docs-article,
+.blox-card {
+  background-color: #ffffff !important;
 }
