@@ -56,7 +56,7 @@ social:
   link: https://orcid.org/0000-0002-9103-7065
 - icon: download
   icon_pack: fas
-  static/uploads/CV_Young-Jun Kim.pdf
+  link: uploads/CV_Young-Jun Kim.pdf
 
 
 
