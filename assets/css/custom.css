@@ -1,0 +1,21 @@
+/* 전체 배경 그radient 테스트 (라이트/다크 상관없이 공통 적용) */
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+  background: linear-gradient(
+    135deg,
+    #f0f4ff 0%,
+    #ffeef6 100%
+  ) !important;
+}
+
+/* 내용 영역 카드들이 배경색을 덮어쓰지 않도록(선택 사항) */
+main,
+.page,
+.page-wrapper,
+.page-body,
+.universal-wrapper,
+.docs-article-container {
+  background: transparent !important;
+}
