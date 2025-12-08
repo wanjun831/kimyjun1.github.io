@@ -1,5 +1,5 @@
 ---
-title: Monolithic bioresorbable pain blocker with acoustically switchable triboelectric field
+title: Wireless and bioresorbable triboelectric nerve block system for postoperative pain control
 summary: Y.-J. Kim#, S.-H. Kim#, B.-J. Park#, J. Jeon, D. Kang, Y. Chung, J.-H. Hwang, H.-J. Yoon, K. H. Lee*, B.-O. Choi*, S.-W. Kim*, **Nature Biomedical Engineering**, accepted.
 date: '2024-07-20T00:00:00Z'
 
