@@ -10,7 +10,7 @@ main:
   - name: Featured
     url: '#projects'
     weight: 20
-    name: Publication
+  - name: Publication
     url: '#Publication'
     weight: 30
   - name: Awards
