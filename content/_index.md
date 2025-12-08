@@ -72,7 +72,7 @@ sections:
     content:
       title: Featured
       text: |
-        **Featured papers**<p>
+        **Featured works**<p>
       filters:
         folders:
           - project
