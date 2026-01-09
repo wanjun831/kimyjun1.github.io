@@ -16,7 +16,7 @@ links:
     name: link
     url: https://www.nature.com/articles/s41551-025-01579-2
 url_code: ''
-url_pdf: ''
+url_pdf: 'uploads/nBME_pain block_2026.pdf'
 url_slides: ''
 url_video: ''
 
