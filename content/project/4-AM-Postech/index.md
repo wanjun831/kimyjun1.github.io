@@ -16,7 +16,7 @@ links:
     name: link
     url: https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202307194
 url_code: ''
-url_pdf: ''
+url_pdf: 'uploads/AM_neurostimulator_2024.pdf'
 url_slides: ''
 url_video: ''
 

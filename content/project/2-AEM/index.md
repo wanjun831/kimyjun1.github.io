@@ -16,7 +16,7 @@ links:
     name: link
     url: https://onlinelibrary.wiley.com/doi/10.1002/aenm.202403712
 url_code: ''
-url_pdf: ''
+url_pdf: 'uploads/AEM_US TENG_2025.pdf'
 url_slides: ''
 url_video: ''
 

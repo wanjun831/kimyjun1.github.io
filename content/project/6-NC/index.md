@@ -16,7 +16,7 @@ links:
     name: link
     url: https://www.nature.com/articles/s41467-021-24028-5
 url_code: ''
-url_pdf: ''
+url_pdf: 'uploads/NC_air purification_2021.pdf'
 url_slides: ''
 url_video: ''
 

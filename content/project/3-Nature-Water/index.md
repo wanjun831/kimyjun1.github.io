@@ -16,7 +16,7 @@ links:
     name: link
     url: https://www.nature.com/articles/s44221-024-00226-5
 url_code: ''
-url_pdf: ''
+url_pdf: 'uploads/nwater_disinfection_2024.pdf'
 url_slides: ''
 url_video: ''
 

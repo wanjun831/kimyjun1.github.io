@@ -16,7 +16,7 @@ links:
     name: link
     url: https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(22)00083-2
 url_code: ''
-url_pdf: ''
+url_pdf: 'uploads/CRPS_textile_2022.pdf'
 url_slides: ''
 url_video: ''
 
