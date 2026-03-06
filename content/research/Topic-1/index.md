@@ -33,13 +33,18 @@ Development of ultrasonic-sensitive materials and ultrasound-based triboelectric
 - Development of a high-performance ultrasound-driven triboelectric energy harvesting device through optimization of the reflection and transmission of ultrasonic waves at interfaces of materials
 - Optimization of structure of ultrasound-based triboelectric energy harvesting devices
 
-Motor response by neurostimulator
-<video width="100%" autoplay muted loop playsinline controls>
-  <source src="/media/research1_1.mp4" type="video/mp4">
+## Motor response by neurostimulator
+<div style="margin-top:20px;">
+<video width="100%" autoplay muted loop playsinline>
+  <source src="/media/research1-1.mp4" type="video/mp4">
 </video>
+</div>
 
-Ankle angle at toe-off phase analysis
-<video width="100%" autoplay muted loop playsinline controls>
+## Ankle angle at toe-off phase analysis
+<div style="margin-top:20px;">
+<video width="100%" autoplay muted loop playsinlines>
   <source src="/media/research1_2.mp4" type="video/mp4">
 </video>
+</div>
 
+<br>
