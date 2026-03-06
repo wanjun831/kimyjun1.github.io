@@ -133,7 +133,7 @@ sections:
         1.	H.-J. Yoon#, D.-M. Lee#, **Y.-J. Kim**, S. Jeon, J.-H. Jung, S. S. Kwak, J. Kim, S. Kim, Y. Kim, and S.-W. Kim*, [Mechanoreceptor-Inspired Dynamic Mechanical Stimuli Perception based on Switchable Ionic Polarization](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202100649), ***Advanced Functional Materials*** 31, 2100649 (2021)
         ## Motor response by neurostimulator
         <div style="margin-top:20px;">
-        <video width="100%" autoplay muted loop playsinline>
+        <video style="width:100%;" autoplay muted loop playsinline>
         <source src="/media/research1-3.mp4" type="video/mp4">
         </video>
         </div>
