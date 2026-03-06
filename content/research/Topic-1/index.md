@@ -35,11 +35,11 @@ Development of ultrasonic-sensitive materials and ultrasound-based triboelectric
 
 Motor response by neurostimulator
 <video width="100%" autoplay muted loop playsinline controls>
-  <source src="/media/research1-1.mp4" type="video/mp4">
+  <source src="/media/research1_1.mp4" type="video/mp4">
 </video>
 
 Ankle angle at toe-off phase analysis
 <video width="100%" autoplay muted loop playsinline controls>
-  <source src="/media/research1-2.mp4" type="video/mp4">
+  <source src="/media/research1_2.mp4" type="video/mp4">
 </video>
 ---
