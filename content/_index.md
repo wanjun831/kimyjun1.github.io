@@ -131,6 +131,12 @@ sections:
         1.	Z.-Y. Huo, D.-M. Lee, **Y.-J. Kim**, and S.-W. Kim*, [Solar-induced hybrid energy harvesters for advanced oxidation water treatment](https://www.cell.com/iscience/fulltext/S2589-0042(21)00776-8), ***iScience*** 24, 102808 (2021) (review articles)
         1.	Z.-Y. Huo, D.-M. Lee, S. Wang, **Y.-J. Kim**, and S.-W. Kim*, [Emerging Energy Harvesting Materials and Devices for Self-Powered Water Disinfection](https://onlinelibrary.wiley.com/doi/abs/10.1002/smtd.202100093), ***Small Methods*** 5, 2100093 (2021) (review articles)
         1.	H.-J. Yoon#, D.-M. Lee#, **Y.-J. Kim**, S. Jeon, J.-H. Jung, S. S. Kwak, J. Kim, S. Kim, Y. Kim, and S.-W. Kim*, [Mechanoreceptor-Inspired Dynamic Mechanical Stimuli Perception based on Switchable Ionic Polarization](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202100649), ***Advanced Functional Materials*** 31, 2100649 (2021)
+        ## Motor response by neurostimulator
+        <div style="margin-top:20px;">
+        <video width="100%" autoplay muted loop playsinline>
+        <source src="/media/research1-3.mp4" type="video/mp4">
+        </video>
+        </div>
       # `content` 폴더 안의 `awards.md` 파일 내용을 여기에 직접 삽입합니다.
   - block: markdown
     id: awards-and-honors
