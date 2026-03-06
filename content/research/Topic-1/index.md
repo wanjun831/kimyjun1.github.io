@@ -43,7 +43,7 @@ Development of ultrasonic-sensitive materials and ultrasound-based triboelectric
 ## Ankle angle at toe-off phase analysis
 <div style="margin-top:20px;">
 <video width="100%" autoplay muted loop playsinlines>
-  <source src="/media/research1_2.mp4" type="video/mp4">
+  <source src="/media/research1-2.mp4" type="video/mp4">
 </video>
 </div>
 
