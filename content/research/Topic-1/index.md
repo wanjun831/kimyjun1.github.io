@@ -42,4 +42,4 @@ Ankle angle at toe-off phase analysis
 <video width="100%" autoplay muted loop playsinline controls>
   <source src="/media/research1_2.mp4" type="video/mp4">
 </video>
----
+
