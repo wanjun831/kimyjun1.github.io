@@ -110,7 +110,7 @@ sections:
         
         **Contributing authored papers** <p>
 
-        12. Y. Lin, J. Zhou, I.-Y. Suh, E. Kim, K. C. Yip, D. Kim, J.-M. Jeong, **Y.-J. Kim**, J. Jeon, J.-H. Lee, Y.-H. Hwang, S.-W. Kim, D.-M. Shin, [Concurrently Achieving 4.6 W/M<sup>2<\sup> and 120,000 Cyclability Enabled by Extendable Swing Arms in Rotational Triboelectric Nanogenerator](https://doi.org/10.1002/advs.75294), ***Advanced Science*** Early View (2026)
+        12. Y. Lin, J. Zhou, I.-Y. Suh, E. Kim, K. C. Yip, D. Kim, J.-M. Jeong, **Y.-J. Kim**, J. Jeon, J.-H. Lee, Y.-H. Hwang, S.-W. Kim, D.-M. Shin, [Concurrently Achieving 4.6 W/M<sup>2</sup> and 120,000 Cyclability Enabled by Extendable Swing Arms in Rotational Triboelectric Nanogenerator](https://doi.org/10.1002/advs.75294), ***Advanced Science*** Early View (2026)
         1. Y. Lee, **Y.-J. Kim**, D. H. Park, I. Park, D. Kim, S. B. Kim, [Compact electroaerodynamic dust removal through integrated ion transport mechanisms](https://doi.org/10.1016/j.seppur.2025.136559), ***Separation and Purification Technology*** 386, 136559 (2026)
         1. I.-Y. Suh#, **Y.-J. Kim#**, S.-W. Kim*, [Portable hand-powered nanocatalysis for clean water](https://doi.org/10.1038/s41565-025-02070-4), <span style="color:red;"><b>***Nature Nanotechnology***</b></span>, 1-2 (2025)
         1. Y. Chung, S. Choudhury, **Y.-J. Kim**, I.-Y. Suh, K. Dai, S.-W. Kim, [Ultrasound-Powered, Battery-Free Implants via Triboelectric Energy Harvesting](https://doi.org/10.1002/admt.202501451), ***Advanced Materials Technologies*** e01451 (2025)
