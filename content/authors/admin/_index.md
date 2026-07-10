@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Young-Jun Kim, [CV](uploads/CV_Young-Jun Kim.pdf)
+title: Young-Jun Kim
 
 # Is this the primary user of the site?
 superuser: true
