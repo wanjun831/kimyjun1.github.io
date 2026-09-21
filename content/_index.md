@@ -107,6 +107,7 @@ sections:
         1.	**Y.-J. Kim#**, H. T. Kim#, J. H. Lee#, I.-Y. Suh, S.-W. Kim*, [Self-powered Fine Dust Filtration System Using Triboelectrification Induced Electric Field](https://link.springer.com/article/10.1186/s11671-022-03749-6), ***Nanoscale Research Letters*** 17, 1-9 (2022)
         1.	M. Kang#, N.-Y. Jang#, **Y.-J. Kim#**, H.-J. Ro#, D. Kim, Y. Kim, H. T. Kim, H. M. Kwon, J.-H. Ahn, B.-O. Choi, N.-H. Cho*, and S.-W. Kim*, [Virus blocking textile for SARS-CoV-2 using human body triboelectric energy harvesting](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(22)00083-2), ***Cell Reports Physical Science*** 3, 100813 (2022)
         1.	Z.-Y. Huo#, **Y.-J. Kim#**, I.-Y. Suh, D.-M. Lee, J. H. Lee, Y. Du, S. Wang, H.-J. Yoon, and S.-W. Kim*, [Triboelectrification induced self-powered microbial disinfection using nanowire-enhanced localized electric field](https://www.nature.com/articles/s41467-021-24028-5), <span style="color:red;"><b>***Nature Communications***</b></span> 12, 1-11 (2021) <span style="color:#990033;"><i>Covered by domestic news (Dong-A Ilbo, etc.)</i></span><p>
+        1.	K.-Y. Park#, **Y.-J. Kim#**, H. Mo, Y. Han, B.-O. Choi, S.-W. Kim, H.-J. Yoon*, Ultrasound-Driven Triboelectric Nanogenerators with Acoustically Engineered Metal Mesh Electrodes, ***Nano Energy***, accepted (2026)
         
         **Contributing authored papers** <p>
 
