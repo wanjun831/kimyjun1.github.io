@@ -96,6 +96,7 @@ sections:
       title: Full publication list #1
       text: |
         [(Google scholar)](https://scholar.google.co.kr/citations?user=hTVt6tEAAAAJ&hl=en)<p>**First authored papers**<p>
+        1.	K.-Y. Park#, **Y.-J. Kim#**, H. Mo, Y. Han, B.-O. Choi, S.-W. Kim, H.-J. Yoon*, Ultrasound-Driven Triboelectric Nanogenerators with Acoustically Engineered Metal Mesh Electrodes, ***Nano Energy***, accepted (2026)
         1. **Y.-J. Kim#**, Y. Chung#, J.-H. Hwang#, J.-M. Jeong, B. Kim, D. Kang, B.-O. Choi, H.-J. Yoon*, S.-W. Kim*, [Acoustic Impedance-Tailored High-Performance Ultrasound-Driven Triboelectric Nanogenerators](https://doi.org/10.1002/aenm.202505099), <span style="color:red;"><b>***Advanced Energy Materials***</b></span> Early View (2026), <span style="color:#990033;"><i> Covered by Nanowerk </i></span>
         1. **Y.-J. Kim#**, S.-H. Kim#, B.-J. Park#, J. Jeon, D. Kang, Y. Chung, J.-H. Hwang, H.-J. Yoon, K. H. Lee*, B.-O. Choi*, S.-W. Kim*, [Wireless and bioresorbable triboelectric nerve block system for postoperative pain control](https://www.nature.com/articles/s41551-025-01579-2), <span style="color:red;"><b>***Nature Biomedical Engineering***</b></span> (2026), <span style="color:#990033;"><i> Covered by ScienMag, Bioengineer, and domestic news </i></span>
         1. **Y.-J. Kim#**, J. Hwang#, B.-J. Park, Y. Chung, S. H. Choi, S.-H. Kim, D. H. Park, Y. Lee, S. Yoo, J. Park, J. C. Won, S. H. Nam, B.-O. Choi, S.-W. Kim, Y. H. Kim, [Nanoparticle-Stabilized Porous Composite Architectures for Ultrasound-Driven Triboelectric Energy Harvesters in Soft Implantable Electronics](https://pubs.acs.org/doi/full/10.1021/acsnano.5c12701), ***ACS Nano***, 19, 40994-41003 (2025)
@@ -107,7 +108,7 @@ sections:
         1.	**Y.-J. Kim#**, H. T. Kim#, J. H. Lee#, I.-Y. Suh, S.-W. Kim*, [Self-powered Fine Dust Filtration System Using Triboelectrification Induced Electric Field](https://link.springer.com/article/10.1186/s11671-022-03749-6), ***Nanoscale Research Letters*** 17, 1-9 (2022)
         1.	M. Kang#, N.-Y. Jang#, **Y.-J. Kim#**, H.-J. Ro#, D. Kim, Y. Kim, H. T. Kim, H. M. Kwon, J.-H. Ahn, B.-O. Choi, N.-H. Cho*, and S.-W. Kim*, [Virus blocking textile for SARS-CoV-2 using human body triboelectric energy harvesting](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(22)00083-2), ***Cell Reports Physical Science*** 3, 100813 (2022)
         1.	Z.-Y. Huo#, **Y.-J. Kim#**, I.-Y. Suh, D.-M. Lee, J. H. Lee, Y. Du, S. Wang, H.-J. Yoon, and S.-W. Kim*, [Triboelectrification induced self-powered microbial disinfection using nanowire-enhanced localized electric field](https://www.nature.com/articles/s41467-021-24028-5), <span style="color:red;"><b>***Nature Communications***</b></span> 12, 1-11 (2021) <span style="color:#990033;"><i>Covered by domestic news (Dong-A Ilbo, etc.)</i></span><p>
-        1.	K.-Y. Park#, **Y.-J. Kim#**, H. Mo, Y. Han, B.-O. Choi, S.-W. Kim, H.-J. Yoon*, Ultrasound-Driven Triboelectric Nanogenerators with Acoustically Engineered Metal Mesh Electrodes, ***Nano Energy***, accepted (2026)
+        
         
         **Contributing authored papers** <p>
 
