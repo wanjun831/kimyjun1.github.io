@@ -1,6 +1,6 @@
 ---
 title: Acoustic Impedance-Tailored High-Performance Ultrasound-Driven Triboelectric Nanogenerators
-summary: Y.-J. Kim#, Y. Chung#, J.-H. Hwang#, J.-M. Jeong, B. Kim, D. Kang, B.-O. Choi, H.-J. Yoon*, S.-W. Kim*, Acoustic Impedance-Tailored High-Performance Ultrasound-Driven Triboelectric Nanogenerators, **Advanced Energy Materials**, Early View (2026)
+summary: Y.-J. Kim#, Y. Chung#, J.-H. Hwang#, J.-M. Jeong, B. Kim, D. Kang, B.-O. Choi, H.-J. Yoon*, S.-W. Kim*, Acoustic Impedance-Tailored High-Performance Ultrasound-Driven Triboelectric Nanogenerators, **Advanced Energy Materials**, 16, e05099 (2026)
 date: '2026-04-11T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
